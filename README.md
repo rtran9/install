@@ -4,8 +4,9 @@
 
 - [`homebrew`](https://brew.sh/)
 - [`iterm2`](https://www.iterm2.com/downloads.html)
-- [`'zsh`](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH#macos`
+- [`zsh`](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH#macos`
 - [`ohmyzsh`](https://github.com/ohmyzsh/ohmyzsh#basic-installation)
+- [`powerline-fonts`](https://github.com/powerline/fonts#quick-installation)
 
 
 ## nvm
