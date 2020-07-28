@@ -1,5 +1,13 @@
 # install
 
+## Mac
+
+- [`homebrew`](https://brew.sh/)
+- [`iterm2`](https://www.iterm2.com/downloads.html)
+- [`'zsh`](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH#macos`
+- [`ohmyzsh`](https://github.com/ohmyzsh/ohmyzsh#basic-installation)
+
+
 ## nvm
 ```
 git clone https://github.com/creationix/nvm.git .nvm
